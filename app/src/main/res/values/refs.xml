@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="dice4" />
+    <drawable name="dice6" />
+    <drawable name="dice8" />
+    <drawable name="dice10" />
+    <drawable name="dice12" />
+    <drawable name="dice20" />
+</resources>
